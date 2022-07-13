@@ -3,9 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Git Hello")
+	fmt.Println("Git branch develop")
 
-	fmt.Println("Git Update")
-	
-	fmt.Println("Git pull")
+	fmt.Println("develop test")
 }
